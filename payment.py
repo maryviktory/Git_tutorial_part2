@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "This is a payment app!"
+    return "This is a credit card page!"
 
 
 if __name__ == "__main__":
