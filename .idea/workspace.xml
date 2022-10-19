@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae65d7f8-3b64-4158-9502-71f8d502ec7f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.github/workflows/configures.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/new_feature_file.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test.py" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/configures.yaml" afterPath="$PROJECT_DIR$/.github/workflows/configures.yaml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/simple_web_page.py" afterPath="$PROJECT_DIR$/simple_web_page.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configures.yaml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="configures.yaml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.github/workflows/configures.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="297">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -68,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="simple_web_page.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="simple_web_page.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/simple_web_page.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
@@ -105,13 +101,14 @@
         <option value="$PROJECT_DIR$/new feature file.py" />
         <option value="$PROJECT_DIR$/__init__.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/.github/workflows/configures.yaml" />
         <option value="$PROJECT_DIR$/simple_web_page.py" />
+        <option value="$PROJECT_DIR$/.github/workflows/configures.yaml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="448" />
+    <option name="x" value="431" />
+    <option name="y" value="82" />
     <option name="width" value="1378" />
     <option name="height" value="1030" />
   </component>
@@ -275,11 +272,19 @@
       <option name="project" value="LOCAL" />
       <updated>1665863678180</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="YML for CI added">
+      <created>1666185921210</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666185921210</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="448" y="0" width="1378" height="1030" extended-state="0" />
+    <frame x="431" y="82" width="1378" height="1030" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16897081" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -287,7 +292,7 @@
       <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16767189" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3293124" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40168878" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -313,7 +318,8 @@
     <MESSAGE value="updated strings" />
     <MESSAGE value="strings012" />
     <MESSAGE value="strings000" />
-    <option name="LAST_COMMIT_MESSAGE" value="strings000" />
+    <MESSAGE value="YML for CI added" />
+    <option name="LAST_COMMIT_MESSAGE" value="YML for CI added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -404,14 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.github/workflows/configures.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/simple_web_page.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -419,6 +417,14 @@
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/configures.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
