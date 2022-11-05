@@ -2,9 +2,16 @@ from flask import Flask
 
 app = Flask(__name__)
 
-@app.route("/")
+def calculate (a, b):
+    c = a+b
+    return c
+
+
+@app.route("/") #function which tells that the next coming function will be on HTTP request
 def index():
-    return "This is a credit card page!"
+
+    return "This is a credit card page! Please pay %s USD"%(calculate(10,20))
+
 
 
 if __name__ == "__main__":
