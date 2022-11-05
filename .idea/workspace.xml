@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae65d7f8-3b64-4158-9502-71f8d502ec7f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/configures.yaml" afterPath="$PROJECT_DIR$/.github/workflows/configures.yaml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/payment.py" afterPath="$PROJECT_DIR$/payment.py" />
-      <change beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
@@ -65,11 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configures.yaml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="configures.yaml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.github/workflows/configures.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="324">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -118,7 +117,6 @@
         <option value="$PROJECT_DIR$/new feature file.py" />
         <option value="$PROJECT_DIR$/__init__.py" />
         <option value="$PROJECT_DIR$/simple_web_page.py" />
-        <option value="$PROJECT_DIR$/.github/workflows/configures.yaml" />
         <option value="$PROJECT_DIR$/initial_test_file.py" />
         <option value="$PROJECT_DIR$/junk_file_ignore.py" />
         <option value="$PROJECT_DIR$/.gitignore.py" />
@@ -126,6 +124,7 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/payment.py" />
         <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/.github/workflows/configures.yaml" />
       </list>
     </option>
   </component>
@@ -194,7 +193,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -359,7 +358,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666430240283</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="created a payment web page with calculate function">
+      <created>1667627084099</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667627084099</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -429,7 +435,8 @@
     <MESSAGE value="broken test file" />
     <MESSAGE value="good test file" />
     <MESSAGE value="1) create junk_file.py&#10;2) 2 files modi" />
-    <option name="LAST_COMMIT_MESSAGE" value="1) create junk_file.py&#10;2) 2 files modi" />
+    <MESSAGE value="created a payment web page with calculate function" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a payment web page with calculate function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -584,14 +591,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.github/workflows/configures.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/new_feature_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -620,6 +619,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.github/workflows/configures.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
         </state>
       </provider>
