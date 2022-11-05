@@ -68,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/.github/workflows/configures.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -365,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667627084099</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="added flask to YAML">
+      <created>1667627254061</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667627254061</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -436,7 +443,8 @@
     <MESSAGE value="good test file" />
     <MESSAGE value="1) create junk_file.py&#10;2) 2 files modi" />
     <MESSAGE value="created a payment web page with calculate function" />
-    <option name="LAST_COMMIT_MESSAGE" value="created a payment web page with calculate function" />
+    <MESSAGE value="added flask to YAML" />
+    <option name="LAST_COMMIT_MESSAGE" value="added flask to YAML" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -626,7 +634,7 @@
     <entry file="file://$PROJECT_DIR$/.github/workflows/configures.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
           <folding />
         </state>
       </provider>
